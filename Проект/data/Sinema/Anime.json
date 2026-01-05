@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "genre": "Сёнэн",
+    "episodes": 220,
+    "studio": "Studio Pierrot",
+    "releaseDate": "2002-10-03",
+    "format": "TV"
+  },
+  {
+    "id": 2,
+    "title": "Death Note",
+    "genre": "Триллер",
+    "episodes": 37,
+    "studio": "Madhouse",
+    "releaseDate": "2006-10-04",
+    "format": "TV"
+  }
+]
